@@ -1,2 +1,3 @@
-Implementación de modelos de programación lineal entera mixta (MILP) para la resolución de problemas de hubs p-mediana con asignación simple y con factor de descuento fijo o variable.
-Este código ha sido generado para la realización de los estudios computacionales recogidos en el TFG de Celia Martín Baturone, alumna del grado en Matemáticas de la Universidad de Cádiz.
+<h2>SApHMP Code</h2>
+Implementation of mixed-integer linear programming (MILP) models for solving p-median hub problems with single allocation and a fixed or variable discount factor.
+This code has been generated for the computational studies included in the Bachelor’s Thesis (TFG) of Celia Martín Baturone, a student of the Mathematics degree at the University of Cádiz (Spain).
